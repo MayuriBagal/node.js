@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         SERVER_IP      = '172.31.43.170'
-        SSH_CREDENTIAL = 'node-pipeline-key'
+        SSH_CREDENTIAL = 'node-pipeline-keyy'
         REPO_URL       = 'https://github.com/MayuriBagal/node.js.git'
         BRANCH         = 'main'
         REMOTE_USER    = 'ubuntu'
